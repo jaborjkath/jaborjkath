@@ -4,7 +4,7 @@
 - 🍊 Code-blooded, 🧁 lover, and lifelong learner.
 - 💞️ Embracing growth mindset through codes, colors and collaboration.
 
-📑 Random Quote / Fun Fact
+📑 Random Quote
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
