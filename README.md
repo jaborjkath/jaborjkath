@@ -5,6 +5,7 @@
 - 💞️ Embracing growth mindset through codes, colors and collaboration.
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
+  Random Quote
 <!--STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
 </a>
