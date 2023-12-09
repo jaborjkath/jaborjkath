@@ -14,4 +14,4 @@ jobs:
       - uses: siddharth2016/quote-readme@main
         with:
           COMMIT_MESSAGE: Update with quote-readme
-          OPTION: both       
+          OPTION: quote       
