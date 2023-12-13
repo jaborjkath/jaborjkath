@@ -14,7 +14,7 @@
 
 #### 🚀 My GitHub / Language Stats
 <a href="https://github.com/jaborjkath/github-readme-stats">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=jaborjkath&include_all_commits=true&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&hide=stars&theme=catppuccin_latte" />
+  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=jaborjkath&include_all_commits=true&show=prs_merged_percentage&show_icons=true&rank_icon=github&hide=stars&theme=catppuccin_latte" />
 </a>
 <a href="https://github.com/jaborjkath/convoychat">
   <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaborjkath&langs_count=10&include_all_commits=true&theme=ambient_gradient" />
