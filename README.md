@@ -21,6 +21,12 @@
 </a>
 
 
+#### 📝 Tech stack
+<p align="left">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,php,mysql,git,gitlab,github,eclipse,vscode,latex,figma,wordpress&perline=5&theme=light" />
+  </a>
+</p>
 <!---
 jaborjkath/jaborjkath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
