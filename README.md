@@ -24,7 +24,7 @@
 #### 📝 Tech stack
 <p align="left">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,php,mysql,git,gitlab,github,eclipse,vscode,latex,figma&perline=5&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,php,mysql,git,gitlab,github,eclipse,vscode,latex,wordpress,figma&perline=5&theme=light" />
   </a>
 </p>
 <!---
