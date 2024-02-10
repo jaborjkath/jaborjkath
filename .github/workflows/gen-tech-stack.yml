@@ -2,8 +2,7 @@ name: Generate Tech Stack
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
     paths: [ config/stack.yml ]
     
 jobs:
