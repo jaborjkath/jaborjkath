@@ -23,3 +23,10 @@
     - url: 'https://github.com/jaborjkath/timeclock'
     - url: 'https://github.com/jaborjkath/timeclock_assignment'
     - url: 'https://github.com/jaborjkath/old_work_exercises' 
+
+- name: jQuery
+  logo: jquery
+  color: '#0868AC'
+  url: 'https://jquery.com/'
+  projects:
+    - url: 'https://github.com/jaborjkath/timeclock-namesearch'
