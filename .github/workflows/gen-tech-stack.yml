@@ -16,4 +16,4 @@ jobs:
           path: config/stack.yml      
           badges: false
           technology_emoji: 👨🏻‍💻
-          
+          project_emoji: ✨
