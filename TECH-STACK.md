@@ -1,4 +1,4 @@
-# Tech Stack and Projects I created
+# Tech Stack and Projects
 
 <!-- Searched hex codes from https://brandpalettes.com -->
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
