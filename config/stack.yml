@@ -1,0 +1,14 @@
+- name: HTML
+  logo: html5
+  color: '#E34F26'
+  url: '#'
+  projects:
+    - url: 'https://github.com/jaborjkath/timeclock-namesearch'
+    - url: 'https://github.com/jaborjkath/webportfolio'
+
+- name: PHP
+  logo: php
+  color: '#E34F26'
+  url: '#'
+  projects:
+    - url: 'https://github.com/jaborjkath/timeclock'   
