@@ -12,3 +12,14 @@
   url: 'https://www.php.net/'
   projects:
     - url: 'https://github.com/jaborjkath/timeclock'   
+
+- name: JavaScript
+  logo: javascript
+  color: '#F0DB4F'
+  url: 'https://www.w3schools.com/js/default.asp'
+  projects:
+    - url: 'https://github.com/jaborjkath/hello-open-source'
+    - url: 'https://github.com/jaborjkath/nextjs-boilerplate'    
+    - url: 'https://github.com/jaborjkath/timeclock'
+    - url: 'https://github.com/jaborjkath/timeclock_assignment'
+    - url: 'https://github.com/jaborjkath/old_work_exercises' 
