@@ -28,6 +28,29 @@
   </a>
 </p>
 
+<!-- Group / Tech -->
+<!-- 
+| 💻 **Group** | 🚀 **Technologies** |
+| - | - | 
+| **Core** | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=F16529&logo=html5&logoColor=FFFFFF)](https://www.w3schools.com/html/) [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB3&logo=php&logoColor=FFFFFF)](https://www.php.net/) CSS, BootStrap, MySQL, JavaScript, jQuery, OOP | 
+| **DevOps** | Git, GitLab, GitHub, Jira, BitBucket, Docker, Slack | 
+| **RDBMS** | MySQL, SQLyog |
+| **Framework** | Seagull, Zend | 
+| **IDE** | Dev C++, EasyEclipse for PHP | 
+| **Software Testing** | Selenium | 
+| **CMS** | WordPress, Joomla | 
+| **CRM** | vTiger | 
+| **HRMS** | orangeHRM | 
+| **Typesetting** | LaTex, Overleaf | 
+| **Editors** | Notepad++, VS Code, SourceTree |
+| **Graphic Design** | Canva |
+| **UX/UI Design** | Figma |
+| **Blog** | WordPress.com |
+| **Microblog** | IG, FB, Goodreads |
+| **Misc** | Bash, Markdwon |
+-->
+<!-- -->
+
 <!---
 jaborjkath/jaborjkath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
