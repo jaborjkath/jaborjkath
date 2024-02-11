@@ -12,7 +12,8 @@
   url: 'https://www.php.net/'
   projects:
     - url: 'https://github.com/jaborjkath/timeclock'   
-
+    - url: 'https://github.com/jaborjkath/timeclock-namesearch'
+    
 - name: JavaScript
   logo: javascript
   color: '#F0DB4F'
