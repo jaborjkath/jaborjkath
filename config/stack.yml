@@ -21,12 +21,12 @@
     - url: 'https://github.com/jaborjkath/hello-open-source'
     - url: 'https://github.com/jaborjkath/nextjs-boilerplate'    
     - url: 'https://github.com/jaborjkath/timeclock'
-    - url: 'https://github.com/jaborjkath/timeclock_assignment'
-    - url: 'https://github.com/jaborjkath/old_work_exercises' 
-
+    - url: 'https://github.com/jaborjkath/timeclock-namesearch'
+    
 - name: jQuery
   logo: jquery
   color: '#0868AC'
   url: 'https://jquery.com/'
   projects:
     - url: 'https://github.com/jaborjkath/timeclock-namesearch'
+    - url: 'https://github.com/jaborjkath/timeclock'    
