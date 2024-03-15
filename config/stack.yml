@@ -31,3 +31,10 @@
   projects:
     - url: 'https://github.com/jaborjkath/timeclock-namesearch'
     - url: 'https://github.com/jaborjkath/timeclock'    
+
+- name: Java
+  logo: java
+  color: '#0868AC'
+  url: 'https://www.java.com/'
+  projects:
+    - url: 'https://github.com/jaborjkath/seleniumproj'
