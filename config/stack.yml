@@ -34,7 +34,7 @@
 
 - name: Java
   logo: java
-  color: '#0868AC'
+  color: '#5382a1'
   url: 'https://www.java.com/'
   projects:
     - url: 'https://github.com/jaborjkath/seleniumproj'
