@@ -39,6 +39,13 @@
   projects:
     - url: 'https://github.com/jaborjkath/seleniumproj'
 
+- name: Gen AI
+  logo: genai
+  color: '#016FB6'
+  url: 'https://coursera.org/share/05d9dcafa5c7ca67a9a4b2d47b07ecbd'
+  projects:
+    - url: 'https://github.com/jaborjkath/genai-design-eclinicscheduler'    
+    
 - name: Figma
   logo: figma
   color: '#ff7262'
@@ -52,10 +59,3 @@
   url: 'https://www.canva.com/'
   projects:
     - url: 'https://github.com/jaborjkath/canva-design-digital-products'
-
-- name: GenAI
-  logo: genai
-  color: '#016FB6'
-  url: 'https://www.canva.com/'
-  projects:
-    - url: 'https://github.com/jaborjkath/canva-design-digital-products'    
