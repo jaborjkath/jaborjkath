@@ -51,4 +51,11 @@
   color: '#016FB6'
   url: 'https://www.canva.com/'
   projects:
+    - url: 'https://github.com/jaborjkath/canva-design-digital-products'
+
+- name: GenAI
+  logo: genai
+  color: '#016FB6'
+  url: 'https://www.canva.com/'
+  projects:
     - url: 'https://github.com/jaborjkath/canva-design-digital-products'    
