@@ -42,6 +42,7 @@
 | **Blog, Microblog** | [![WORDPRESS](https://img.shields.io/static/v1?label=&message=WordPress&color=1e8cbe&logo=wordpress&logoColor=FFFFFF)](https://wordpress.com/) [![GOODREADS](https://img.shields.io/static/v1?label=&message=Goodreads&color=ffc0af&logo=goodreads&logoColor=FFFFFF)](https://www.goodreads.com/) [![INSTAGRAM](https://img.shields.io/static/v1?label=&message=Instagram&color=7754c9&logo=instagram&logoColor=FFFFFF)](https://instagram.com/) [![FACEBOOK](https://img.shields.io/static/v1?label=&message=Facebook&color=0866ff&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/)|
 | **Misc** | [![GITBASH](https://img.shields.io/static/v1?label=&message=GitBash&color=0866ff&logo=bash&logoColor=FFFFFF)](https://www.atlassian.com/git/tutorials/git-bash) |
 
+To view a list of my projects using these technologies, you can check **[➡️ Full Tech Stack](https://github.com/jaborjkath/jaborjkath/blob/main/TECH-STACK.md)** 
 </p>
    <br>
 </details>
@@ -75,7 +76,7 @@ jaborjkath/jaborjkath is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
+| 💻 **Technologies** | 📂 **Projects** |
 | - | - |
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=F16529&logo=html5&logoColor=FFFFFF)](https://www.w3schools.com/html/) | [![timeclock-namesearch](https://img.shields.io/static/v1?label=&message=timeclock-namesearch&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaborjkath/timeclock-namesearch) [![webportfolio](https://img.shields.io/static/v1?label=&message=webportfolio&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaborjkath/webportfolio) |
 | [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB3&logo=php&logoColor=FFFFFF)](https://www.php.net/) | [![timeclock](https://img.shields.io/static/v1?label=&message=timeclock&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaborjkath/timeclock) [![timeclock-namesearch](https://img.shields.io/static/v1?label=&message=timeclock-namesearch&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaborjkath/timeclock-namesearch) |
