@@ -45,3 +45,10 @@
   url: 'https://www.figma.com/'
   projects:
     - url: 'https://github.com/jaborjkath/little-lemon-app'
+
+- name: Canva
+  logo: canva
+  color: '#ff7262'
+  url: 'https://www.canva.com/'
+  projects:
+    - url: 'https://github.com/jaborjkath/canva-design-digital-products'    
