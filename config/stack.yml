@@ -55,7 +55,7 @@
 
 - name: Canva
   logo: canva
-  color: '#e4ae33'
+  color: '#016FB6'
   url: 'https://www.canva.com/'
   projects:
     - url: 'https://github.com/jaborjkath/canva-design-digital-products'
