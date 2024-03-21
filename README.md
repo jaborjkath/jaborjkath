@@ -42,39 +42,21 @@
 | **Blog, Microblog** | [![WORDPRESS](https://img.shields.io/static/v1?label=&message=WordPress&color=1e8cbe&logo=wordpress&logoColor=FFFFFF)](https://wordpress.com/) [![GOODREADS](https://img.shields.io/static/v1?label=&message=Goodreads&color=ffc0af&logo=goodreads&logoColor=FFFFFF)](https://www.goodreads.com/) [![INSTAGRAM](https://img.shields.io/static/v1?label=&message=Instagram&color=7754c9&logo=instagram&logoColor=FFFFFF)](https://instagram.com/) [![FACEBOOK](https://img.shields.io/static/v1?label=&message=Facebook&color=0866ff&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/)|
 | **Misc** | [![GITBASH](https://img.shields.io/static/v1?label=&message=GitBash&color=0866ff&logo=bash&logoColor=FFFFFF)](https://www.atlassian.com/git/tutorials/git-bash) |
 
-To view a list of my projects using some of these technologies, you can check **[➡️ Full Tech Stack](https://github.com/jaborjkath/jaborjkath/blob/main/TECH-STACK.md)** 
+To view a list of my projects using some of these technologies, you can check **[➡️ Full Tech Stack](https://github.com/jaborjkath/jaborjkath/blob/main/TECH-STACK.md)**
 </p>
    <br>
 </details>
 
 
-<!-- Group / Tech -->
-<!--
-| 📂 **Group** | 💻 **Technologies** |
-| - | - | 
-| **Core** | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=F16529&logo=html5&logoColor=FFFFFF)](https://www.w3schools.com/html/) [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB3&logo=php&logoColor=FFFFFF)](https://www.php.net/) [![CSS](https://img.shields.io/static/v1?label=&message=Bootstrap&color=553C7B&logo=bootstrap&logoColor=FFFFFF)](https://getbootstrap.com/) [![MYSQL](https://img.shields.io/static/v1?label=&message=MySQL&color=00758f&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F0DB4F&logo=javascript&logoColor=FFFFFF)](https://www.w3schools.com/js/default.asp) [![jQuery](https://img.shields.io/static/v1?label=&message=jQuery&color=0868AC&logo=jquery&logoColor=FFFFFF)](https://jquery.com/) [![OOP](https://img.shields.io/static/v1?label=&message=OOP&color=04aa6d&logo=oop&logoColor=FFFFFF)](https://www.w3schools.com/php/php_oop_what_is.asp) | 
-| **DevOps** | [![GIT](https://img.shields.io/static/v1?label=&message=Git&color=e84d2f&logo=git&logoColor=FFFFFF)](https://git-scm.com/) [![GITLAB](https://img.shields.io/static/v1?label=&message=GitLab&color=f46a25&logo=gitlab&logoColor=FFFFFF)](https://about.gitlab.com/) [![GITHUB](https://img.shields.io/static/v1?label=&message=GitHub&color=000000&logo=github&logoColor=FFFFFF)](https://github.com/) [![JIRA](https://img.shields.io/static/v1?label=&message=Jira&color=1167de&logo=jira&logoColor=FFFFFF)](https://www.atlassian.com/software/jira) [![BITBUCKET](https://img.shields.io/static/v1?label=&message=Bitbucket&color=2580f7&logo=bitbucket&logoColor=FFFFFF)](https://bitbucket.org/) [![SLACK](https://img.shields.io/static/v1?label=&message=Slack&color=6ec59f&logo=slack&logoColor=FFFFFF)](https://slack.com/) | 
-| **RDBMS** | MySQL, SQLyog |
-| **Framework** | Seagull, Zend | 
-| **IDE** | Dev C++, EasyEclipse for PHP | 
-| **Software Testing** | Selenium | 
-| **CMS** | WordPress, Joomla | 
-| **CRM** | vTiger | 
-| **HRMS** | orangeHRM | 
-| **Typesetting** | LaTex, Overleaf | 
-| **Editors** | Notepad++, VS Code, SourceTree |
-| **Graphic Design** | Canva |
-| **UX/UI Design** | Figma |
-| **Blog** | WordPress.com |
-| **Microblog** | IG, FB, Goodreads |
-| **Misc** | Bash, Markdwon |
--->
-<!-- -->
-
 <!---
 jaborjkath/jaborjkath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<details>
+   <summary><b>✨ View List of my projects</b></summary>
+  <p>
+
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
@@ -87,3 +69,7 @@ You can click the Preview link to take a look at your changes.
 | [![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=ff7262&logo=figma&logoColor=FFFFFF)](https://www.figma.com/) | [![little-lemon-app](https://img.shields.io/static/v1?label=&message=little-lemon-app&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaborjkath/little-lemon-app) |
 | [![Canva](https://img.shields.io/static/v1?label=&message=Canva&color=e4ae33&logo=canva&logoColor=FFFFFF)](https://www.canva.com/) | [![canva-design-digital-products](https://img.shields.io/static/v1?label=&message=canva-design-digital-products&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaborjkath/canva-design-digital-products) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
+</p>
+   <br>
+</details>
