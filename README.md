@@ -40,7 +40,7 @@
 | **Graphic Design** | [![Canva](https://img.shields.io/static/v1?label=&message=Canva&color=016FB6&logo=canva&logoColor=FFFFFF)](https://www.canva.com/) |
 | **UX/UI Design** | [![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=ff7262&logo=figma&logoColor=FFFFFF)](https://www.figma.com/) |
 | **Blog, Microblog** | [![WORDPRESS](https://img.shields.io/static/v1?label=&message=WordPress&color=1e8cbe&logo=wordpress&logoColor=FFFFFF)](https://wordpress.com/) [![GOODREADS](https://img.shields.io/static/v1?label=&message=Goodreads&color=ffc0af&logo=goodreads&logoColor=FFFFFF)](https://www.goodreads.com/) [![INSTAGRAM](https://img.shields.io/static/v1?label=&message=Instagram&color=7754c9&logo=instagram&logoColor=FFFFFF)](https://instagram.com/) [![FACEBOOK](https://img.shields.io/static/v1?label=&message=Facebook&color=0866ff&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/)|
-| **Misc** | [![GITBASH](https://img.shields.io/static/v1?label=&message=GitBash&color=0866ff&logo=bash&logoColor=FFFFFF)](https://www.atlassian.com/git/tutorials/git-bash) |
+| **Misc** | [![GITBASH](https://img.shields.io/static/v1?label=&message=GitBash&color=0866ff&logo=bash&logoColor=FFFFFF)](https://www.atlassian.com/git/tutorials/git-bash) [![Gen AI](https://img.shields.io/static/v1?label=&message=Gen%20AI&color=74AA9C&logo=genai&logoColor=FFFFFF)](https://coursera.org/share/05d9dcafa5c7ca67a9a4b2d47b07ecbd) |
 
 To view a list of my projects using some of these technologies, you can check **[➡️ Full Tech Stack](https://github.com/jaborjkath/jaborjkath/blob/main/TECH-STACK.md)**
 </p>
