@@ -41,7 +41,7 @@
 
 - name: Gen AI
   logo: genai
-  color: '#016FB6'
+  color: '#74AA9C'
   url: 'https://coursera.org/share/05d9dcafa5c7ca67a9a4b2d47b07ecbd'
   projects:
     - url: 'https://github.com/jaborjkath/genai-design-eclinicscheduler'    
