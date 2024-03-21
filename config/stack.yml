@@ -59,10 +59,3 @@
   url: 'https://www.canva.com/'
   projects:
     - url: 'https://github.com/jaborjkath/canva-design-digital-products'
-
-- name: WordPress
-  logo: wordpress
-  color: '#398cb3'
-  url: 'https://wordpress.com/'
-  projects:
-    - url: 'https://kitkatsergio.wordpress.com/'
