@@ -75,6 +75,7 @@ jaborjkath/jaborjkath is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
+<!--
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=F16529&logo=html5&logoColor=FFFFFF)](https://www.w3schools.com/html/) | [![timeclock-namesearch](https://img.shields.io/static/v1?label=&message=timeclock-namesearch&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaborjkath/timeclock-namesearch) [![webportfolio](https://img.shields.io/static/v1?label=&message=webportfolio&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaborjkath/webportfolio) |
@@ -85,4 +86,5 @@ You can click the Preview link to take a look at your changes.
 | [![Gen AI](https://img.shields.io/static/v1?label=&message=Gen%20AI&color=74AA9C&logo=genai&logoColor=FFFFFF)](https://coursera.org/share/05d9dcafa5c7ca67a9a4b2d47b07ecbd) | [![genai-design-eclinicscheduler](https://img.shields.io/static/v1?label=&message=genai-design-eclinicscheduler&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaborjkath/genai-design-eclinicscheduler) |
 | [![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=ff7262&logo=figma&logoColor=FFFFFF)](https://www.figma.com/) | [![little-lemon-app](https://img.shields.io/static/v1?label=&message=little-lemon-app&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaborjkath/little-lemon-app) |
 | [![Canva](https://img.shields.io/static/v1?label=&message=Canva&color=016FB6&logo=canva&logoColor=FFFFFF)](https://www.canva.com/) | [![canva-design-digital-products](https://img.shields.io/static/v1?label=&message=canva-design-digital-products&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jaborjkath/canva-design-digital-products) |
+-->
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
