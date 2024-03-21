@@ -18,15 +18,34 @@
 </a>
 <a href="https://github.com/jaborjkath/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaborjkath&langs_count=10&include_all_commits=true&theme=ambient_gradient" />
-</a>
+<br></a>
 
+<br>
+<details>
+   <summary><b>🛠️ Tech stack</b></summary>
+  <p>
 
-#### 📝 Tech stack
-<p align="left">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,php,mysql,git,gitlab,github,eclipse,vscode,latex,wordpress,figma&perline=5&theme=light" />
-  </a>
+| 💻 **Group** | 🚀 **Technologies** |
+| - | - | 
+| **Core** | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=F16529&logo=html5&logoColor=FFFFFF)](https://www.w3schools.com/html/) [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB3&logo=php&logoColor=FFFFFF)](https://www.php.net/) [![CSS](https://img.shields.io/static/v1?label=&message=Bootstrap&color=553C7B&logo=bootstrap&logoColor=FFFFFF)](https://getbootstrap.com/) [![MYSQL](https://img.shields.io/static/v1?label=&message=MySQL&color=00758f&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F0DB4F&logo=javascript&logoColor=FFFFFF)](https://www.w3schools.com/js/default.asp) [![jQuery](https://img.shields.io/static/v1?label=&message=jQuery&color=0868AC&logo=jquery&logoColor=FFFFFF)](https://jquery.com/) [![OOP](https://img.shields.io/static/v1?label=&message=OOP&color=04aa6d&logo=oop&logoColor=FFFFFF)](https://www.w3schools.com/php/php_oop_what_is.asp) | 
+| **DevOps** | [![JIRA](https://img.shields.io/static/v1?label=&message=Jira&color=1167de&logo=jira&logoColor=FFFFFF)](https://www.atlassian.com/software/jira) [![BITBUCKET](https://img.shields.io/static/v1?label=&message=Bitbucket&color=2580f7&logo=bitbucket&logoColor=FFFFFF)](https://bitbucket.org/) [![SLACK](https://img.shields.io/static/v1?label=&message=Slack&color=e4ae33&logo=slack&logoColor=FFFFFF)](https://slack.com/) [![GIT](https://img.shields.io/static/v1?label=&message=Git&color=e84d2f&logo=git&logoColor=FFFFFF)](https://git-scm.com/) [![GITLAB](https://img.shields.io/static/v1?label=&message=GitLab&color=f46a25&logo=gitlab&logoColor=FFFFFF)](https://about.gitlab.com/) [![GITHUB](https://img.shields.io/static/v1?label=&message=GitHub&color=000000&logo=github&logoColor=FFFFFF)](https://github.com/) | 
+| **RDBMS** | [![MYSQL](https://img.shields.io/static/v1?label=&message=MySQL&color=00758f&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/) [![SQLYOG](https://img.shields.io/static/v1?label=&message=SQLyog&color=5a94e4&logo=sqlyog&logoColor=FFFFFF)](https://sqlyog.en.softonic.com/download) |
+| **Framework** | [![ZEND](https://img.shields.io/static/v1?label=&message=Zend&color=68b604&logo=zend&logoColor=FFFFFF)](http://www.phpprogram.net/frameworks-in-php/zend-framework/) [![SEAGULL](https://img.shields.io/static/v1?label=&message=Seagull&color=5a94e4&logo=seagull-php-framework&logoColor=FFFFFF)](http://www.phpprogram.net/frameworks-in-php/seagull-php-framework/) | 
+| **IDE** | [![EASYECLIPSE](https://img.shields.io/static/v1?label=&message=EasyEclipse&color=8f96c2&logo=eclipse&logoColor=FFFFFF)](https://easyeclipse.org/site-1.0.1/distributions/php.html) [![DEV-C++](https://img.shields.io/static/v1?label=&message=Dev-Cpp&color=0d6dce&logo=devcpp&logoColor=FFFFFF)](https://www.bloodshed.net/)  | 
+| **Editors** | [![VSCODE](https://img.shields.io/static/v1?label=&message=VSCode&color=0873b3&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/) [![SOURCETREE](https://img.shields.io/static/v1?label=&message=Sourcetree&color=2a86fe&logo=sourcetree&logoColor=FFFFFF)](https://www.sourcetreeapp.com/) [![NOTEPAD++](https://img.shields.io/static/v1?label=&message=Notepad++&color=78d487&logo=notepadplusplus&logoColor=FFFFFF)](https://code.visualstudio.com/) |
+| **Software Testing** | [![MANUALTESTING](https://img.shields.io/static/v1?label=&message=ManualTesting&color=f29111&logo=manualtesting&logoColor=FFFFFF)](https://www.geeksforgeeks.org/software-testing-manual-testing/) [![SELENIUMIDE](https://img.shields.io/static/v1?label=&message=Selenium-IDE&color=19468d&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/selenium-ide/docs/en/introduction/getting-started) | 
+| **CMS** | [![WORDPRESS](https://img.shields.io/static/v1?label=&message=WordPress&color=1e8cbe&logo=wordpress&logoColor=FFFFFF)](https://wordpress.com/) [![JOOMLA!](https://img.shields.io/static/v1?label=&message=Joomla!&color=eda442&logo=joomla&logoColor=FFFFFF)](https://www.joomla.org/) | 
+| **CRM** | [![VTIGER](https://img.shields.io/static/v1?label=&message=vTiger&color=1262da&logo=vtiger&logoColor=FFFFFF)](https://www.vtiger.com/) | 
+| **Typesetting** | [![LATEX](https://img.shields.io/static/v1?label=&message=LaTex&color=008080&logo=latex&logoColor=FFFFFF)](https://www.latex-project.org/) [![OVERLEAF](https://img.shields.io/static/v1?label=&message=Overleaf&color=449d45&logo=overleaf&logoColor=FFFFFF)](https://www.overleaf.com/)| 
+| **Graphic Design** | [![Canva](https://img.shields.io/static/v1?label=&message=Canva&color=016FB6&logo=canva&logoColor=FFFFFF)](https://www.canva.com/) |
+| **UX/UI Design** | [![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=ff7262&logo=figma&logoColor=FFFFFF)](https://www.figma.com/) |
+| **Blog, Microblog** | [![WORDPRESS](https://img.shields.io/static/v1?label=&message=WordPress&color=1e8cbe&logo=wordpress&logoColor=FFFFFF)](https://wordpress.com/) [![GOODREADS](https://img.shields.io/static/v1?label=&message=Goodreads&color=ffc0af&logo=goodreads&logoColor=FFFFFF)](https://www.goodreads.com/) [![INSTAGRAM](https://img.shields.io/static/v1?label=&message=Instagram&color=7754c9&logo=instagram&logoColor=FFFFFF)](https://instagram.com/) [![FACEBOOK](https://img.shields.io/static/v1?label=&message=Facebook&color=0866ff&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/)|
+| **Misc** | [![GITBASH](https://img.shields.io/static/v1?label=&message=GitBash&color=0866ff&logo=bash&logoColor=FFFFFF)](https://www.atlassian.com/git/tutorials/git-bash) |
+
 </p>
+   <br>
+</details>
+
 
 <!-- Group / Tech -->
 <!--
