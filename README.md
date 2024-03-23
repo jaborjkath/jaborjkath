@@ -23,7 +23,7 @@
 <br>
 <details>
    <summary><b>🛠️ Tech stack</b></summary>
-  <p>
+  <p style="visibility: hidden">
 
 | 📂 **Group** | 💻 **Technologies** |
 | - | - | 
