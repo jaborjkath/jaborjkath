@@ -44,7 +44,7 @@
   color: '#74AA9C'
   url: 'https://coursera.org/share/05d9dcafa5c7ca67a9a4b2d47b07ecbd'
   projects:
-    - url: 'https://github.com/jaborjkath/genai-design-eclinicscheduler'    
+    - url: 'https://github.com/jaborjkath/eclinic-scheduler'    
     
 - name: Figma
   logo: figma
@@ -58,4 +58,4 @@
   color: '#016FB6'
   url: 'https://www.canva.com/'
   projects:
-    - url: 'https://github.com/jaborjkath/canva-design-digital-products/'
+    - url: 'https://github.com/jaborjkath/canva-digiprod-set'
