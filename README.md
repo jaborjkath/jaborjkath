@@ -17,7 +17,7 @@
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=jaborjkath&include_all_commits=true&show=prs_merged_percentage&show_icons=true&rank_icon=github&hide=stars&theme=catppuccin_latte" />
 </a>
 <a href="https://github.com/jaborjkath/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaborjkath&layout=compact&langs_count=10&include_all_commits=true&theme=ambient_gradient" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaborjkath&layout=compact&langs_count=12&include_all_commits=true&theme=ambient_gradient" />
 <br></a>
 
 <br>
