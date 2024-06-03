@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <details>
-   <summary><b>✨ View List of my tech projects</b></summary>
+   <summary><b>✨ View List of my Tech projects</b></summary>
   <p>
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
