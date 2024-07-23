@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UX/UI, Web app/Software Testing, Generative AI (GenAI)
 - 🍊 Code-blooded, lifelong learner fueled by muffins. 🧁
 - 💞️ Embracing growth mindset through codes, colors and collaboration.
-- 💬 You can ask me about anything or say hello [here](https://github.com/jaborjkath/jaborjkath/issues)
+- 💬 You can ask me about anything or say hello [here](https://github.com/jaborjkath/jaborjkath/issues).
 
 #### 📑 Random Quote
 <a href="https://github.com/marketplace/actions/quote-readme">
