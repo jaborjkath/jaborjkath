@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaborjkath
 - 👀 I’m interested in PHP, MySQL, jQuery
 - 🌱 I’m currently learning UX/UI, Web app/Software Testing, Generative AI (GenAI)
-- 🍊 Code-blooded, muffin lover 🧁, and lifelong learner.
+- 🍊 Code-blooded, lifelong learner fueled by muffins. 🧁
 - 💞️ Embracing growth mindset through codes, colors and collaboration.
 - 💬 You can ask me about anything or say hello [here](https://github.com/jaborjkath/jaborjkath/issues)
 
