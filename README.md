@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaborjkath
-- 👀 I’m interested in PHP, MySQL, jQuery
-- 🌱 I’m currently learning Graphic design, Web app/Software Testing, Generative AI (GenAI)
+- 👀 I’m interested in PHP, Web app/Software Testing, Generative AI (GenAI)
+- 🌱 I’m currently learning Graphic design (UPOU) 
 - 🍊 Code-blooded, lifelong learner fueled by muffins. 🧁
 - 💞️ Embracing growth mindset through codes, colors and collaboration.
 - 💬 You can ask me about anything or say hello [here](https://github.com/jaborjkath/jaborjkath/issues).
