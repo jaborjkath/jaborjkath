@@ -45,7 +45,7 @@
 | **Learning** | [![SKILLSHARE](https://img.shields.io/static/v1?label=&message=SkillShare&color=000000&logo=skillshare&logoColor=FFFFFF)](https://skl.sh/3KrgcrL)|
 | **Misc** | [![GITBASH](https://img.shields.io/static/v1?label=&message=Git%20Bash&color=0866ff&logo=gitbash&logoColor=FFFFFF)](https://www.atlassian.com/git/tutorials/git-bash) [![Gen AI](https://img.shields.io/static/v1?label=&message=Gen%20AI&color=74AA9C&logo=genai&logoColor=FFFFFF)](https://coursera.org/share/05d9dcafa5c7ca67a9a4b2d47b07ecbd) |
 
-To view a list of my projects using some of these technologies, you can check **[➡️ Full Tech Stack](https://github.com/jaborjkath/jaborjkath/blob/main/TECH-STACK.md)**
+To view a list of my projects using these technologies, you can check **[➡️ Full Tech Stack & Projects](https://github.com/jaborjkath/jaborjkath/blob/main/TECH-STACK.md)**
 </p>
    <br>
 </details>
