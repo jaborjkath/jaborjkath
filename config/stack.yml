@@ -32,6 +32,13 @@
     - url: 'https://github.com/jaborjkath/timeclock-namesearch'
     - url: 'https://github.com/jaborjkath/timeclock'    
 
+- name: Vercel
+  logo: vercel
+  color: '#000000'
+  url: 'https://vercel.com/'
+  projects:
+    - url: 'https://github.com/jaborjkath/webportfolio'
+    
 - name: Java
   logo: java
   color: '#5382a1'
