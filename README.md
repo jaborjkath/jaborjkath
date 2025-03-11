@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaborjkath
-- 👀 I’m interested in PHP, Web app/Software Testing, Generative AI (GenAI)
-- 🌱 I’m currently learning Graphic design (UPOU) 
+- 👀 I’m interested in PHP, Web app/Software Testing, GenAI, Graphic design
+- 🌱 I’m currently learning "Child Rights Protection & Promotion" | University of the Philippines Open University (UPOU) 
 - 🍊 Code-blooded, lifelong learner fueled by muffins. 🧁
 - 💞️ Embracing growth mindset through codes, colors and collaboration.
 - 💬 You can ask me about anything or say hello [here](https://github.com/jaborjkath/jaborjkath/issues).
