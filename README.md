@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details>
-   <summary><b>🎨 Art stack</b></summary>
+   <summary><b>🎨 Art stack & Resources</b></summary>
   <p style="visibility: hidden">
 
 | 💻 **Websites** | 📑 **Resources** |
