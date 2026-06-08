@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaborjkath
 - 👀 I’m interested in PHP, Web app/Software Testing, GenAI, Graphic design
-- 🌱 I’m currently learning "PED101 - Personal Entrepreneurial Development" | University of the Philippines Open University (UPOU) 
+- 🌱 I’m currently learning Notion Academy: Essentials
 - 🍊 Code-blooded, lifelong learner fueled by muffins. 🧁
 - 💞️ Embracing growth mindset through codes, colors and collaboration.
 - 💬 You can ask me about anything or say hello [here](https://github.com/jaborjkath/jaborjkath/issues).
