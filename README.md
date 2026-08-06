@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaborjkath
-- 👀 I’m interested in PHP, Web app/Software Testing, GenAI, Graphic design
+- 👀 I’m interested in PHP, Web app/Software Testing, GenAI, Graphic design, Notion Templates & Systems
 - 🌱 I’m currently learning Notion Workflows
 - 🍊 Code-blooded, lifelong learner fueled by muffins. 🧁
 - 💞️ Embracing growth mindset through codes, colors and collaboration.
